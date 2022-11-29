@@ -27,13 +27,6 @@ install options for your operating system.
 
 ## Current status
 
-Git Credential Manager is currently available for Windows, macOS, and Linux\*.
-GCM only works with HTTP(S) remotes; you can still use Git with SSH:
-
-- [Azure DevOps SSH][azure-devops-ssh]
-- [GitHub SSH][github-ssh]
-- [Bitbucket SSH][bitbucket-ssh]
-
 Feature|Windows|macOS|Linux\*
 -|:-:|:-:|:-:
 Installer/uninstaller|&#10003;|&#10003;|&#10003;
